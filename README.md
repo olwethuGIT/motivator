@@ -1,2 +1,2 @@
 # motivator
-A flutter mobile app that shows me inspirational quotes every morning.
+A flutter mobile app that shows inspirational quotes every morning.
